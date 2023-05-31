@@ -62,14 +62,14 @@ npm install -g sass
 - Run build command from command line:
 
 ```bash
-sass assets/sass/main.scss assets/css/style.css
+sass /sass/main.scss /css/main.css
 ```
 
 - If you want to edit the code and test, in the root folder of this repository,
   run this command from the command line:
 
 ```bash
-sass --watch assets/sass/main.scss assets/css/style.css
+sass --watch /sass/main.scss /css/main.css
 ```
 
 ## File structure
